@@ -153,7 +153,7 @@ if defined activate goto _activate
 :MainMenu
 
 cls
-title  IAS 0.7  ^(Fork of @Dukun Cabul's Tool^)
+title  EliteKamrul ^(Kamrul Hossain^)
 mode 65, 25
 
 :: Check firewall status
